@@ -6,9 +6,7 @@ The project allows users to browse images by category and view them in an intera
 
 ## Live Demo
 
-[View Live Demo](YOUR-LIVE-DEMO-LINK)
-
-> The live demo link will be added after deploying the project.
+[View Live Demo](https://zaeemdanish007-hub.github.io/CodeAlpha-image-gallery/)
 
 ## Preview
 
